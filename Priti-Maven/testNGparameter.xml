@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name= "parametersuit" >
+<parameter name="username" value="mngr311945"/>
+<parameter name="password" value="dAdUher"/>
+<test name="paratest">
+  <classes>
+   <class name= "login.LoginTestNGParameter"/>
+   
+ </classes>
+</test>
+</suite>

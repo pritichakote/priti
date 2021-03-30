@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="priti-suite">
+<test name="priti-test">
+  <classes>
+   <class name= "priti.Priti"/>
+   <class name="guru99.Login"/>
+  </classes>
+</test>
+</suite>
